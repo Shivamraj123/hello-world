@@ -4,4 +4,4 @@
 
 <h2> DEploy by Shivam Raj</h2>
 <h1> Learning cicd</h1>
-<h1> I love u shilpy :3</h1>
+<h1> I love u shilpy </h1>
